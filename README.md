@@ -94,9 +94,6 @@
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
 
 <a href="http://www.github.com/Oseni-Tomiwa">
   <img src="https://github-readme-stats.vercel.app/api?username=Oseni-Tomiwa&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
