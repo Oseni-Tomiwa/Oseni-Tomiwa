@@ -64,7 +64,6 @@
 
 ---
 
-## 🌐 Socials
 
 <p>
   <a href="https://www.github.com/Oseni-Tomiwa">
