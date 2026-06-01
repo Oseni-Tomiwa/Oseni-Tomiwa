@@ -2,7 +2,7 @@
 
 # Hi there, I'm Oseni Tomiwa 👋
 
-**Full Stack Developer · AWS DVA-C02 in Progress · Building in Public**
+**Full Stack Developer · AWS DVA-C02 in Prog**
 
 [![GitHub followers](https://img.shields.io/github/followers/Oseni-Tomiwa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Oseni-Tomiwa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Maveryltd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.x.com/Maveryltd)
