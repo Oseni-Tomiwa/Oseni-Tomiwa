@@ -1,102 +1,94 @@
 <div align="center">
 
-# Hi there, I'm Oseni Tomiwa 👋
+Hi, I'm Oseni Tomiwa 👋
 
-**Full Stack Developer · AWS DVA-C02 · AI Engineer · Cloud Engineer**
+Full-Stack Developer · Backend & Cloud
 
-[![GitHub followers](https://img.shields.io/github/followers/Oseni-Tomiwa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Oseni-Tomiwa)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Maveryltd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.x.com/Maveryltd)
+I build reliable web applications, APIs, and cloud-ready systems—turning ideas into products that are useful, maintainable, and ready to deploy.
+
+
 
 </div>
 
----
+About Me
 
-## About Me
+🇳🇬 Based in Nigeria and open to remote opportunities
 
-- 🌍 Based in **Nigeria**
-- 🧠 Currently studying for **AWS Developer Associate (DVA-C02)**
-- 👥 Open to collaborating on **full stack projects, DeFi tooling, and cloud-native apps**
-- 💬 Chemistry grad who codes, trades crypto, and builds in public as **[@maveryltd](https://x.com/Maveryltd)**
+🧪 Chemistry graduate who transitioned into software development
 
----
+🧠 Preparing for the AWS Certified Developer – Associate (DVA-C02) exam
 
-🛠️ Tech Stack
+🚀 Building full-stack products, REST APIs, AI-powered tools, and cloud-native applications
 
-**Languages & Frameworks**
+🤝 Open to collaborating on developer tools, SaaS products, and impactful open-source projects
+
+🌱 Currently deepening my knowledge of backend architecture, PostgreSQL, Redis, Docker, CI/CD, and AWS
+
+What I Work With
+
+Core Stack
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" title="Swift" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, HTML, CSS and Tailwind CSS" />
 </p>
 
+Databases, Cloud & Tooling
 
 <p>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
-  <a href="https://www.sketch.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" title="Sketch" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,aws,docker,linux,git,github,githubactions" alt="PostgreSQL, MongoDB, MySQL, Redis, Prisma, AWS, Docker, Linux, Git, GitHub and GitHub Actions" />
 </p>
 
-**Cloud, DevOps & Infrastructure**
+Featured Work
 
-<p>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" title="Amazon Web Services" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-  <a href="https://www.digitalocean.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" /></a>
-  <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" title="Ubuntu" /></a>
-  <a href="https://apple.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" title="MacOS" /></a>
-</p>
+Project
 
-<p>
-  <a href="https://solana.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" title="Solana" /></a>
-  <a href="https://ethers.io"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" title="Ethers" /></a>
-</p>
+What it demonstrates
 
-**Social Media**
+Stack
+
+ResolveAI
+
+A Dockerized, multi-service AI SaaS platform with authentication, billing, workspaces, analytics, agents, and inbox workflows
+
+TypeScript, Node.js, React, PostgreSQL, Docker, OpenAI API
+
+FocusTracker
+
+A deployed productivity application for tracking focus and building consistent work habits
+
+React, JavaScript, CSS
+
+Rock Paper Scissors
+
+An interactive browser game with responsive UI and game-state logic
+
+JavaScript, HTML, CSS
+
+Subscription Tracker API
+
+A backend service for managing subscriptions, recurring payments, and renewal data
+
+Node.js, Express, MongoDB
+
+More case studies and project details are available on my portfolio and across my GitHub repositories.
+
+Current Focus
+
+Building      Production-ready backend APIs and full-stack products
+Learning      AWS architecture, automated testing, CI/CD and system design
+Exploring     AI agents, workflow automation and cloud-native development
+Looking for   Junior full-stack/backend roles and open-source collaboration
+
+Outside the Code
+
+I share what I learn, document my projects, and build in public as @Maveryltd. My background in chemistry shaped how I approach development: break complex problems into smaller parts, test assumptions, and improve through iteration.
+
+Let's Connect
+
+If you are building an interesting product, looking for a developer, or want to collaborate, feel free to reach out through LinkedIn, X, or my portfolio.
+
+<div align="center">
 
 
-<p>
-  <a href="https://www.github.com/Oseni-Tomiwa">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.x.com/Maveryltd">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X / Twitter" title="X / Twitter" />
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.threads.net/@maveryltd">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" />
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/tomiwa-oseni">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
 
-<a href="http://www.github.com/Oseni-Tomiwa">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oseni-Tomiwa&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</a>
-
-<a href="http://www.github.com/Oseni-Tomiwa">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oseni-Tomiwa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/Oseni-Tomiwa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseni-Tomiwa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+</div>
