@@ -4,6 +4,8 @@
 
 ### Full-Stack Developer · Backend Developer · Cloud & AI Enthusiast
 
+I build full-stack applications, backend APIs, AI-powered tools, and cloud-ready systems.
+
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-osenitomiwa.com-0891b2?style=for-the-badge&logo=safari&logoColor=white)](https://osenitomiwa.com)
