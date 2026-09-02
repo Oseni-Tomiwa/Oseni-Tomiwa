@@ -3,7 +3,7 @@
 
 # Hi there, I'm Oseni Tomiwa 👋
 
-### Full-Stack Developer · Backend Developer · Cloud & AI Enthusiast
+### Full-Stack Developer · Backend Developer · Cloud & AI Engineer 
 
 I build full-stack applications, backend APIs, AI-powered tools, and cloud-ready systems.
 
