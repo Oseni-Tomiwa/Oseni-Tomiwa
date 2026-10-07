@@ -8,8 +8,6 @@ I build backend systems, full-stack applications, AI-powered developer tools, an
 
 </div>
 
-⸻
-
 👨🏽‍💻 About Me
 
 * 🌍 Based in Nigeria and open to global remote opportunities
@@ -21,8 +19,6 @@ I build backend systems, full-stack applications, AI-powered developer tools, an
 * 🌱 Continuously improving my knowledge of system design, testing, DevOps, and distributed systems
 * 🤝 Open to backend, full-stack, applied AI, cloud, and open-source opportunities
 * 🌐 Portfolio: osenitomiwa.com
-
-⸻
 
 🛠️ Core Stack
 
@@ -78,7 +74,7 @@ AI & Agent Systems
 
 OpenAI API · LangChain · LangGraph · RAG · Vector Databases · Tool-Using Agents · MCP
 
-⸻
+
 
 🚀 Featured Projects
 
@@ -88,8 +84,6 @@ An AI-powered job-search command centre designed to discover opportunities, eval
 
 Stack: TypeScript, Node.js, Fastify, React, SQLite, Drizzle, Docker, AI APIs
 
-⸻
-
 Permission Drift Bench
 
 A research-oriented benchmark and sandbox for testing permission drift in tool-using AI agents.
@@ -98,7 +92,6 @@ It models identities, tools, permissions, revocation events, and audit logs to m
 
 Focus: AI agent security, reliability, authorization, evaluation, tool-use safety
 
-⸻
 
 ResolveAI
 
@@ -106,7 +99,6 @@ A Dockerized multi-service AI SaaS platform with authentication, workspaces, ana
 
 Stack: TypeScript, React, Node.js, PostgreSQL, Docker, OpenAI API
 
-⸻
 
 DevStride
 
@@ -114,7 +106,7 @@ A software platform focused on developer productivity and AI-assisted engineerin
 
 Stack: Next.js, TypeScript, React, AI APIs
 
-⸻
+
 
 FocusTracker
 
@@ -122,7 +114,7 @@ A deployed productivity application for tracking focused work sessions and impro
 
 Stack: React, JavaScript, CSS
 
-⸻
+
 
 🔭 What I’m Working On
 
@@ -132,14 +124,13 @@ Reliability   → Agent permissions, evaluations and safety boundaries
 Cloud         → AWS, Docker, CI/CD, Terraform and deployment
 Open Source   → Developer tooling and infrastructure projects
 
-⸻
+
 
 🔥 GitHub Activity
 
 <div align="center">
 </div>
 
-⸻
 
 📚 Currently Learning
 
@@ -152,7 +143,7 @@ Open Source   → Developer tooling and infrastructure projects
 * System design
 * Open-source engineering
 
-⸻
+
 
 🤝 Open To
 
@@ -162,7 +153,7 @@ Backend Engineering · Full-Stack Development · Applied AI · AI Agents · Clou
 
 If you’re building something interesting, feel free to reach out.
 
-⸻
+
 
 <div align="center">
 
