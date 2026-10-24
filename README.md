@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Oseni Tomiwa 👋🏽
+# Hi, I'm Mavery 👋🏽
 
 **Backend Engineer · Full-Stack Developer · Applied AI**
 
