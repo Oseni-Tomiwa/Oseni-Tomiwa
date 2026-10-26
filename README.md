@@ -6,7 +6,8 @@
 
 I build backend systems, AI-powered developer tools, and cloud-ready software.
 
-[Portfolio](https://osenitomiwa.com) · [GitHub](https://github.com/Oseni-Tomiwa) · [X](https://x.com/YOUR_HANDLE) · [Email](mailto:YOUR_EMAIL)
+[Portfolio](https://osenitomiwa.com) · [GitHub](https://github.com/Oseni-Tomiwa) ·[GitHub](https://github.com/Oseni-Tomiwa) • [X](https://x.com/YOUR_HANDLE) ·
+[Email](mailto:YOUR_EMAIL)
 
 </div>
 
