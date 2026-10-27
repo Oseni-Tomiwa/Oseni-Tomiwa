@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm OSENI Tomiwa 👋🏽
+# Hi, I'm OSENI TOMIWA 👋🏽
 
 **Backend Engineer · Full-Stack Developer · Applied AI**
 
